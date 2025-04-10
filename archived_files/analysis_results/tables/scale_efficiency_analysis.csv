@@ -1,0 +1,6 @@
+,Scale_Efficiency,Scale_Efficiency,Scale_Efficiency,Scale_Efficiency,Scale_Efficiency,Licensed_Beds,Licensed_Beds,Bed_Occupancy_Rate,Bed_Occupancy_Rate
+,count,mean,std,min,max,mean,std,mean,std
+Scale_Efficiency_Category,,,,,,,,,
+CRS,5,1.0,0.0,1.0,1.0,0.0117,0.0209,0.2754,0.2762
+DRS,26,1.955,1.1806,1.0,5.1978,0.2598,0.2701,0.6336,0.2616
+IRS,16,0.7868,0.2154,0.3197,0.9991,0.1491,0.0776,0.6778,0.1676

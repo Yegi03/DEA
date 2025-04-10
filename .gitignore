@@ -31,15 +31,6 @@ ENV/
 *.swp
 *.swo
 
-# Data files (if they contain sensitive information)
-data/*.csv
-data/*.xlsx
-
-# Results (can be regenerated)
-results/
-analysis_results/
-visualization_results/
-
 # Logs
 *.log
 

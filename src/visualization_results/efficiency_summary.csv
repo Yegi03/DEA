@@ -1,0 +1,5 @@
+Category,Count,Avg_VRS,Avg_CRS,Avg_Scale,Most_Efficient_VRS,Least_Efficient_VRS,CRS_Count,IRS_Count,DRS_Count
+Overall,47,4.154,5.117,1.456,10.02,0.997,5,16,26
+Size: Small,47,4.154,5.117,1.456,10.02,0.997,5,16,26
+Size: Medium,0,,,,,,0,0,0
+Size: Large,0,,,,,,0,0,0

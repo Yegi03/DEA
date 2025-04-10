@@ -1,0 +1,6 @@
+,TE_VRS,TE_VRS,TE_VRS,TE_VRS,TE_VRS,TE_CRS,TE_CRS,TE_CRS,TE_CRS,TE_CRS,Scale_Efficiency,Scale_Efficiency
+,count,mean,std,min,max,count,mean,std,min,max,mean,std
+Size_Category,,,,,,,,,,,,
+Small,47,4.1542,2.4369,0.997,10.0195,47,5.1166,2.7027,1.0545,10.0195,1.4557,1.0449
+Medium,0,,,,,0,,,,,,
+Large,0,,,,,0,,,,,,
